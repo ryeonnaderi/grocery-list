@@ -1,0 +1,24 @@
+.overview{
+    width: 65%;
+    
+}
+.headshot{
+    display: inline-block;
+    height: 400px;
+    width: 1700px;
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+}
+.person{
+   display: inline-block;
+   width: 300px;
+   height: 300px;
+   margin: 10px;
+
+}
+.head{
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+}
